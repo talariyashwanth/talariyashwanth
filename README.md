@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm ft.yt._ 👋
 
-<!--
-**talariyashwanth/talariyashwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Who Am I?
+- B.Tech CSE Student
+- Aspiring AI/ML Engineer
+- Builder, Learner, and Problem Solver
 
-Here are some ideas to get you started:
+### 🎯 Currently
+- Learning Machine Learning & Deep Learning
+- Solving DSA Problems
+- Building Real-World Projects
+- Exploring AI Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools I Use
+- Python
+- C
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- NumPy, Pandas, Matplotlib
+- Linux
+
+### 📫 How to Reach Me
+- LinkedIn: Your LinkedIn URL
+- Email: your-email@example.com
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun Fact
+- I believe every skill compounds—one project, one commit, one day at a time.
+
+### 📈 2026 Goals
+- Build impactful AI projects
+- Secure ML internships
+- Contribute to Open Source
+- Grow as an Engineer
+
+> Engineering my future, one commit at a time.
