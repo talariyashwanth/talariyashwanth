@@ -15,6 +15,9 @@
 ### 🛠️ Tools I Use
 - Python
 - C
+- HTML
+- CSS
+- Java Script
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
