@@ -20,13 +20,6 @@
 - NumPy, Pandas, Matplotlib
 - Linux
 
-### 📫 How to Reach Me
-- LinkedIn: Your LinkedIn URL
-- Email: your-email@example.com
-
-### 😄 Pronouns
-- He/Him
-
 ### ⚡ Fun Fact
 - I believe every skill compounds—one project, one commit, one day at a time.
 
