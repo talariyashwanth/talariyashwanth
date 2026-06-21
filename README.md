@@ -1,7 +1,6 @@
 # Hey, I'm ft.yt._ 👋
 
 ### 🚀 Who Am I?
-- B.Tech CSE Student
 - Gen AI User
 - Machine Learning Engineer
 - Builder, Learner, and Problem Solver
@@ -19,8 +18,6 @@
 - CSS
 - Java Script
 - Git & GitHub
-- VS Code
-- Jupyter Notebook
 - NumPy, Pandas, Matplotlib
 - Linux
 
