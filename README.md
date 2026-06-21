@@ -2,7 +2,8 @@
 
 ### 🚀 Who Am I?
 - B.Tech CSE Student
-- Aspiring AI/ML Engineer
+- Gen AI User
+- Machine Learning Engineer
 - Builder, Learner, and Problem Solver
 
 ### 🎯 Currently
